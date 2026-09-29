@@ -1,0 +1,6 @@
+{
+  "name": "Morfikos Flight Booking",
+  "description": "Production-grade mobile flight booking experience with search validation, real-time filtering, seat selection, passenger checkout, and offline trip persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "morfikos-flight-booking",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "dev": "vite --port 3000 --host 0.0.0.0",
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "build": "vite build",
+    "postinstall": "node scripts/setup-polyfills.js"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "expo": "~57.0.25",
+    "expo-asset": "~57.0.18",
+    "expo-status-bar": "~57.0.1",
+    "expo-updates": "~57.0.23",
+    "lucide-react": "^1.16.0",
+    "lucide-react-native": "^1.48.0",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "react-native": "0.86.3",
+    "react-native-safe-area-context": "~5.7.0",
+    "react-native-svg": "15.15.4",
+    "react-native-web": "^0.21.2"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "@types/react": "~19.2.4",
+    "@types/react-dom": "~19.2.3",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "~6.0.3",
+    "vite": "^6.0.0"
+  }
+}

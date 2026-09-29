@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "morfikos-flight-booking",
+    "slug": "morfikos-flight-booking",
+    "owner": "anonymuss",
+    "version": "1.0.0",
+    "sdkVersion": "57.0.0",
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "04d4f232-0ac7-4add-b1c9-770749fbe328"
+      }
+    },
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {},
+    "ios": {},
+    "updates": {
+      "url": "https://u.expo.dev/04d4f232-0ac7-4add-b1c9-770749fbe328"
+    }
+  }
+}
